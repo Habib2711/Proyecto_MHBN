@@ -1,0 +1,10 @@
+.row{
+    background-color:lavender;
+    }
+footer{
+    color:rgb(88, 92, 94);
+    font-size: 14px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
